@@ -1,2 +1,2 @@
 # learn-sql
-![cover](cover.jpg)
+![cover](cover.png)
